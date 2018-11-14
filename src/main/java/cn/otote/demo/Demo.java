@@ -13,4 +13,7 @@ public class Demo {
 	public void bug03() {
 		System.out.println("主分支修复 了一个bug");
 	}
+	public void bug02() {
+		System.out.println("修复了另一个bug");
+	}
 }
