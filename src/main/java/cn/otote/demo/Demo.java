@@ -10,4 +10,8 @@ public class Demo {
 		System.out.println("修复了一个bug");
 	}
 	
+	public void bug02() {
+		System.out.println("修复了另一个bug");
+	}
+	
 }
